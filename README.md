@@ -28,7 +28,11 @@ Curated list of awesome free forensic analysis tools and resources.
   * [Decryption](#-decryption)
   * [Disk image handling](#-disk-image-handling)
   * [Resources](#-resources)
-  
+
+---
+![forensics tools](resources/images/forensics.png)
+
+---
 
 ## 📟 Distributions
 | Name  | Descriptions | Download | 
